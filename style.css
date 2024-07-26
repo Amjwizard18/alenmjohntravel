@@ -95,7 +95,8 @@ div .viewbtn:hover{
 .text{
   font-weight: 1000;
   font-size: medium;
-  color: red;
+  font-weight: bolder;
+  color: rgb(3, 189, 251);
 }
 #hr{
   height: 0.5rem;
